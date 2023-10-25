@@ -29,3 +29,8 @@ Using this for cloud save encryption - https://github.com/defuse/php-encryption 
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
 
+### Opening Helper Panel
+
+1) Create account with `isAdmin` = 1
+2) open "/control" folder on a webserver
+3) login with this account
